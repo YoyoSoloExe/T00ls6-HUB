@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("T00ls6 HUB FREE VERSION", "Synapse")
+local Window = Library.CreateLib("HACKING BOT |FREE VERSION", "Synapse")
 
 --MAIN
 local Main = Window:NewTab("Main")
